@@ -1,0 +1,14 @@
+{
+  "nativePlugins": [
+    {
+      "hooksClass": "com.ftsafe.uniplugin_sdk.SdkModuleHookProxy",
+      "plugins": [
+        {
+          "type": "module",
+          "name": "SdkModule",
+          "class": "com.ftsafe.uniplugin_sdk.SdkModule"
+        }
+      ]
+    }
+  ]
+}
